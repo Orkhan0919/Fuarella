@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\ProniaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|c:\\users\\classtime\\desktop\\proniaproject\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|c:\\users\\classtime\\desktop\\proniaproject\\areas\\adminpanel\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|c:\\users\\classtime\\desktop\\proniaproject\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|c:\\users\\classtime\\desktop\\proniaproject\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|c:\\users\\classtime\\desktop\\proniaproject\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CD19C-423D-4F59-B813-6EB244C6B476}|FrontToBack.csproj|solutionrelative:utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T06:47:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T06:37:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:11:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:08:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\ProniaProject\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:15:34.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
